@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASAP Weather</string>
+    <string name="city">City :</string>
+    <string name="hint">Enter a city name</string>
+    <string name="searchBtn">Search</string>
+    <string name="min">Min :</string>
+    <string name="empty" />
+    <string name="max">Max :</string>
+    <string name="presser">Presser :</string>
+    <string name="humidity">Humidity :</string>
+    <string name="todo">TODO</string>
+</resources>
