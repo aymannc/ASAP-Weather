@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         } else {
             reset();
             String url = "https://samples.openweathermap.org/data/2.5/forecast?q=" + cityName +
-                    "&appid=b6907d289e10d714a6e88b30761fae22";
+                    "&appid=cd2f09d0e86befc60cdda2eeb19d8959";
             RequestQueue queue = Volley.newRequestQueue(getApplicationContext());
             StringRequest request = new StringRequest(Request.Method.GET, url,
                     this::onResponse, this::onErrorResponse);
